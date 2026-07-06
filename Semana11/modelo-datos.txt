@@ -1,0 +1,16 @@
+ENTIDAD 1: CAUSA
+Alcaldia de Cartagena
+ID:22134356
+TITULO: Instalar alcantarillado a calle principal de San Carlos
+DESCRIPCION: Se llevara a cabo la instalacion de alcantarillado a la calle San Carlos, ya que diariamente 
+las calles estan mojadas por falta de alcantarillado lo que ha provocado varios accidentes porque diariamente
+estan mojadas.
+FECHA: 26 Julio 2026
+PROPOSITO:Mejorar el aspecto de la calle San Carlos y evitar accidentes por calle mojada diariamnete.
+
+ENTIDAD 2:Apoyo
+ID: 54678940
+CAUSA ID:Participacion a la instalacion del alcantarillado calle San Carlos
+USUARIO:Habitantes Calle San Carlos
+FECHA: 26 Julio 2026
+PROPOSITO:Incluir lo mas posible la comunidad de la calle San Carlos para llevar a cabo la instalacion del alcantarillado

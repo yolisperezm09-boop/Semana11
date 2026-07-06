@@ -1,0 +1,10 @@
+Qué es el login en una aplicación.
+Podriamos decir que el loguin es el proceso de autenticacion de cada usuario que va acceder a una plataforma.
+
+Por qué algunas rutas deben estar protegidas.
+Por la sensibilidad de la informacion ,la ptroteccion de la misma y asi tambien se lleva el cintrol de quien accede.
+
+Qué tipo de información no debería exponerse públicamente.
+Datos personales
+Informacion financiera
+claves de usuario

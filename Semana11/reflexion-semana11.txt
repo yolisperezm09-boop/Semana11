@@ -1,0 +1,7 @@
+¿Por qué una plataforma tecnológica que promueve participación 
+ciudadana debe tener base de datos, autenticación de usuarios y
+ protección de información?
+ Porque esta es la garantia que cada usuario que la utilize confie en la navegacion o utilizacion de la misma 
+ ya que aqui se almacena informacion sensible , aparte se lleva la trazabilidad de quien la usa 
+ y esto hace que el proceso sea mas transparente y confiable.
+ Evita la suplatacion de identidad y que los que particpan hacen parte de la comunidad.

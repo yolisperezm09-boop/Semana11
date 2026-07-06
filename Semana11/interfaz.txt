@@ -1,0 +1,8 @@
+Elegir nuevo represntante de la comunidad 12 
+DESCRIPCION: En la calle la comunidad 12 se esta en la busca del represntante para la junta ya que la anterior cumplio su periodo de repressentacion
+FECHA: 12 Julio 2026
+CAUSA: Activa
+       En proceso 
+       Culminada
+En cada boton se va marcando la fase en l que se encuentra el proceso y los unicos datos a utilizar serian el numero de documento para el acceso
+y este serab protegido .
